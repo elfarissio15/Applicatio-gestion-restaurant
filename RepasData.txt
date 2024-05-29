@@ -1,0 +1,3 @@
+Pizza,1,40.00,30min
+Tacos,2,40.00,15min
+Burger,3,45.00,35min

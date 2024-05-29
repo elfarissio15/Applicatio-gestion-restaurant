@@ -1,0 +1,5 @@
+Burger-Pizza,2,Asmae,5,0654324589,en attente,81.00
+Tacos-Jus,2,Morad,6,0754321354,preparation,200.00
+Couscous-The,2,Salima,7,0643231454,prete,150.00
+Tajine-Cafee,2,Mohemed,8,0754321456,preparation,120.00
+Bsstila-poisson-Mint,3,Ahmed,9,0654324567,en attente,170.00
